@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schau1121)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-schau1121/schau1121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Simons's GitHub stats](https://github-readme-stats.vercel.app/api?username=schau1121)](https://github.com/anuraghazra/github-readme-stats)
+
